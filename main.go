@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/nats-io/gnatsd/auth"
-	"github.com/nats-io/gnatsd/logger"
-	"github.com/nats-io/gnatsd/server"
+	"github.com/NGenTechLabs/gnatsd/auth"
+	"github.com/NGenTechLabs/gnatsd/logger"
+	"github.com/NGenTechLabs/gnatsd/server"
 )
 
 var usageStr = `

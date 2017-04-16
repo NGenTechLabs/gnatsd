@@ -16,7 +16,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/NGenTechLabs/gnatsd/server"
 	"github.com/nats-io/go-nats"
 )
 

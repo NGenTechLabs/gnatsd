@@ -5,7 +5,7 @@ package auth
 import (
 	"strings"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/NGenTechLabs/gnatsd/server"
 	"golang.org/x/crypto/bcrypt"
 )
 
